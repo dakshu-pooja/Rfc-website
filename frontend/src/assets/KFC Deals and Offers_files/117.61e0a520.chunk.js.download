@@ -1,0 +1,1 @@
+(this["webpackJsonpreusable-comps"]=this["webpackJsonpreusable-comps"]||[]).push([[117],{1039:function(e,s,r){"use strict";r.r(s);r(3);var t=r(2);s.default=e=>{let{children:s}=e;return Object(t.jsx)(t.Fragment,{children:s})}}}]);

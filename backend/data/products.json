@@ -1,0 +1,659 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Zinger Burger",
+        "price": 189,
+        "description": "Signature zinger fillet, lettuce, and mayo in a soft bun.",
+        "image": "/assets/zinger-burger.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 2,
+        "name": "Tandoori Zinger Burger",
+        "price": 209,
+        "description": "Chicken zinger with a delicious tandoori sauce and creamy mayo.",
+        "image": "/assets/D-K1079.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 8,
+        "name": "Classic Zinger Box",
+        "price": 313,
+        "description": "1 Classic Zinger, 2 Hot Wings, 1 Veg Patty & Pepsi.",
+        "image": "/assets/classic-zinger-box.webp",
+        "category": "BOX MEALS",
+        "isVeg": false
+    },
+    {
+        "id": 9,
+        "name": "Veg Zinger Box",
+        "price": 313,
+        "description": "1 Veg Zinger, 2 Veg Patties & a Pepsi.",
+        "image": "/assets/veg-zinger-box.jpg",
+        "category": "BOX MEALS",
+        "isVeg": true
+    },
+    {
+        "id": 70,
+        "name": "5 Pc Smoky Red Chicken",
+        "price": 549,
+        "description": "5 pcs of smoky red chicken, marinated and fried to perfection.",
+        "image": "/assets/smoky-red-bucket.png",
+        "category": "CHICKEN BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 71,
+        "name": "5 Pc Smoky Chicken Mojito Combo",
+        "price": 649,
+        "description": "5 pcs smoky chicken with a refreshing mojito combo. Serves 2-3.",
+        "image": "/assets/smoky-red-bucket.png",
+        "category": "CHICKEN BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 72,
+        "name": "Chicken Bucket for 1",
+        "price": 299,
+        "description": "A perfectly portioned chicken bucket just for you.",
+        "image": "/assets/kfc-white-bucket.jpg",
+        "category": "CHICKEN BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 98,
+        "name": "CHOCO LAVA CAKE",
+        "price": 109,
+        "description": "Rich chocolate cake with a warm, molten center.",
+        "image": "/assets/choco-lava-cake.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 99,
+        "name": "SOFT WHIRL",
+        "price": 59,
+        "description": "Creamy, smooth soft serve swirl - a KFC classic dessert.",
+        "image": "/assets/D-K321.jpg",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 100,
+        "name": "PEPSI - 475ML",
+        "price": 60,
+        "description": "Refreshing chilled Pepsi.",
+        "image": "/assets/pepsi.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 101,
+        "name": "PEPSI BLACK - 475ML",
+        "price": 60,
+        "description": "Refreshing chilled Pepsi Black with zero sugar.",
+        "image": "/assets/pepsi.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 102,
+        "name": "MOJITO",
+        "price": 79,
+        "description": "Refreshing minty mojito drink.",
+        "image": "/assets/mojito.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 103,
+        "name": "MOUNTAIN DEW - 475ML",
+        "price": 60,
+        "description": "Chilled Mountain Dew, refreshing citrus flavor.",
+        "image": "/assets/D-K1220.jpg",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 104,
+        "name": "ICED COFFEE",
+        "price": 99,
+        "description": "Chilled iced coffee to refresh your day.",
+        "image": "/assets/D-PR00003371.jpg",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 105,
+        "name": "COLD COFFEE",
+        "price": 99,
+        "description": "Creamy cold coffee, perfectly blended.",
+        "image": "/assets/D-PR00003370.jpg",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 106,
+        "name": "CHOCOLATE SHAKE",
+        "price": 109,
+        "description": "Rich and creamy chocolate milkshake.",
+        "image": "/assets/D-K1219.jpg",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 107,
+        "name": "KURKURE MOMOS",
+        "price": 109,
+        "description": "Crispy Kurkure coated momos, a crunchy delight!",
+        "image": "/assets/veg-fallback.jpg",
+        "category": "SNACKS",
+        "isVeg": true
+    },
+    {
+        "id": 108,
+        "name": "7UP CAN - 300ML",
+        "price": 50,
+        "description": "Chilled 7UP in a 300ml can.",
+        "image": "/assets/7up.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 109,
+        "name": "PEPSI ZERO SUGAR CAN - 300ML",
+        "price": 50,
+        "description": "Chilled Pepsi Zero Sugar in a 300ml can.",
+        "image": "/assets/pepsi.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 110,
+        "name": "MIRINDA CAN - 300ML",
+        "price": 50,
+        "description": "Chilled Mirinda in a 300ml can.",
+        "image": "/assets/mirinda.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 22,
+        "name": "2 PC DUNKED WINGS",
+        "price": 89,
+        "description": "2 Hot Wings dunked in smoky, fiery Texas BBQ sauce",
+        "image": "/assets/D-K1251.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 23,
+        "name": "3 PC DUNKED STRIPS",
+        "price": 189,
+        "description": "3 Chicken Strips dunked in smoky, fiery Texas BBQ sauce",
+        "image": "/assets/D-K1252.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 24,
+        "name": "DUNKED ZINGER BURGER",
+        "price": 249,
+        "description": "Zinger Burger dunked in smoky, fiery Texas BBQ sauce",
+        "image": "/assets/D-K1253.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 25,
+        "name": "2 PC DUNKED LEG PIECES",
+        "price": 249,
+        "description": "2 Leg Pieces dunked in smoky, fiery Texas BBQ sauce",
+        "image": "/assets/D-K1254.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 26,
+        "name": "DUNKED MEAL BOX",
+        "price": 349,
+        "oldPrice": 476.00,
+        "description": "BBQ Zinger Burger, 2 Hot Wings, Reg Fries & Reg Pepsi",
+        "image": "/assets/D-PR00000567.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 65,
+        "name": "DYNAMITE SPICY MAYO DIP",
+        "price": 29,
+        "description": "Try KFC Signature Dip",
+        "image": "/assets/D-PR00003328.jpg",
+        "category": "DUNKED RANGE",
+        "isVeg": true,
+        "isNew": true
+    },
+    {
+        "id": 27,
+        "name": "9 PCS FOR 299",
+        "price": 299,
+        "description": "Save 30% on 2 Hot Wings with 7 Strips",
+        "image": "/assets/D-PR00003201 (1).jpg",
+        "category": "EPIC SAVERS",
+        "isVeg": false
+    },
+    {
+        "id": 28,
+        "name": "9 PCS FOR 499 MEAL",
+        "price": 499,
+        "description": "Save 25% on 2 Hot Wings with 7 Strips, 2 Reg Fries, 2 Reg Pepsi",
+        "image": "/assets/D-PR00003202.jpg",
+        "category": "EPIC SAVERS",
+        "isVeg": false
+    },
+    {
+        "id": 29,
+        "name": "DOUBLE DOWN MEAL",
+        "price": 229,
+        "description": "Double Down Burger with Reg Fries & Reg Pepsi",
+        "image": "/assets/box-meal-fallback.jpg",
+        "category": "FEASTIVAL MEALS",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 30,
+        "name": "DUO MEAL",
+        "price": 499,
+        "description": "Save 25% on 2 Hot Wings with 7 Strips, 2 Reg Fries, 2 Reg Pepsi",
+        "image": "/assets/D-PR00003202 (1).jpg",
+        "category": "FEASTIVAL MEALS",
+        "isVeg": false
+    },
+    {
+        "id": 34,
+        "name": "GOLD ZINGER AND POPCORN MEAL",
+        "price": 329,
+        "description": "30% Off on Gold Zinger, Reg Fries, Reg Popcorn & Reg Pepsi",
+        "image": "/assets/D-PR00002955.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 36,
+        "name": "GOLD EDITION - CHICKEN ZINGER & FRIES",
+        "price": 299,
+        "description": "Classic Zinger Dunked in Cheesy Silky Sauce in Buttery Bun With Reg Fries",
+        "image": "/assets/D-PR00002956.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 37,
+        "name": "GOLD EDITION - CHICKEN ZINGER, FRIES & PEPSI MEAL",
+        "price": 359,
+        "description": "Enjoy Cheesy Chicken Zinger with Reg Fries & Reg Pepsi",
+        "image": "/assets/D-PR00002957.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 38,
+        "name": "GOLD EDITION - 3PC BONELESS STRIPS",
+        "price": 209,
+        "description": "Krispy Boneless Chicken Strips Dunked in A Silky Sauce With A Flavour Of...",
+        "image": "/assets/D-K1081.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": false
+    },
+    {
+        "id": 39,
+        "name": "GOLD EDITION - REGULAR FRIES",
+        "price": 129,
+        "description": "Fries Made Extra Special, Dunked In A Silky Sauce With A Flavour Of Cheese",
+        "image": "/assets/D-K1080.jpg",
+        "category": "GOLD EDITION",
+        "isVeg": true
+    },
+    {
+        "id": 73,
+        "name": "CLASSIC ZINGER BURGER",
+        "price": 189,
+        "description": "Signature zinger fillet, lettuce, and mayo in a toasted bun.",
+        "image": "/assets/kfc-burger.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 74,
+        "name": "CLASSIC ZINGER MEAL",
+        "price": 289,
+        "description": "Classic Zinger Burger with Reg Fries & Reg Pepsi.",
+        "image": "/assets/chicken-longer-meal.webp",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 75,
+        "name": "CLASSIC ZINGER BOX MEAL",
+        "price": 349,
+        "description": "Classic Zinger Burger, Hot Wings, Fries & Pepsi combo.",
+        "image": "/assets/chicken-longer-meal.webp",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 76,
+        "name": "CARIBBEAN SPICY ZINGER BURGER",
+        "price": 219,
+        "description": "Zinger burger with a Caribbean spicy twist!",
+        "image": "/assets/D-K374.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 77,
+        "name": "CARIBBEAN SPICY ZINGER MEAL",
+        "price": 329,
+        "description": "Caribbean Spicy Zinger with Reg Fries & Reg Pepsi.",
+        "image": "/assets/D-K374.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 78,
+        "name": "CARIBBEAN SPICY ZINGER & POPCORN MEAL",
+        "price": 399,
+        "description": "Caribbean Spicy Zinger Burger with Popcorn, Fries & Pepsi.",
+        "image": "/assets/D-PR00002955.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 79,
+        "name": "MEXICAN ZINGER PRO BURGER",
+        "price": 239,
+        "description": "Premium zinger burger with a bold Mexican twist!",
+        "image": "/assets/mexican-zinger-pro.png",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 80,
+        "name": "MEXICAN ZINGER PRO & POPCORN MEAL",
+        "price": 399,
+        "description": "Mexican Zinger Pro Burger with Popcorn, Fries & Pepsi.",
+        "image": "/assets/mexican-zinger-pro.png",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 81,
+        "name": "AMERICAN CLASSIC ZINGER",
+        "price": 179,
+        "description": "The classic American zinger with lettuce, mayo & zinger patty.",
+        "image": "/assets/kfc-burger.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 82,
+        "name": "AMERICAN CLASSIC ZINGER MOJITO COMBO",
+        "price": 299,
+        "description": "American Classic Zinger with a refreshing Mojito combo.",
+        "image": "/assets/kfc-burger.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 83,
+        "name": "INDIAN TANDOORI ZINGER BURGER",
+        "price": 209,
+        "description": "Zinger burger with a delicious Indian tandoori sauce and creamy mayo.",
+        "image": "/assets/D-K1079.jpg",
+        "category": "BURGERS",
+        "isVeg": false
+    },
+    {
+        "id": 84,
+        "name": "VEG ZINGER BURGER & FRIES",
+        "price": 249,
+        "description": "Veg Zinger Burger served with crispy Regular Fries.",
+        "image": "/assets/Classic-Veg-Krisper.webp",
+        "category": "VEG",
+        "isVeg": true
+    },
+    {
+        "id": 85,
+        "name": "VEG ZINGER BOX MEAL",
+        "price": 319,
+        "description": "Veg Zinger Burger with Fries, Veg Patty & Pepsi.",
+        "image": "/assets/Classic-Veg-Krisper.webp",
+        "category": "VEG",
+        "isVeg": true
+    },
+    {
+        "id": 92,
+        "name": "CLASSIC CHICKEN RICE BOWLZ",
+        "price": 199,
+        "description": "Flavorful rice with signature chicken popcorn and spicy gravy.",
+        "image": "/assets/chicken-rice-bowl.png",
+        "category": "RICE BOWLZ",
+        "isVeg": false
+    },
+    {
+        "id": 93,
+        "name": "POPCORN RICE BOWLZ",
+        "price": 179,
+        "description": "Rice bowlz topped with crispy popcorn chicken and gravy.",
+        "image": "/assets/popcorn-rice-bowl.png",
+        "category": "RICE BOWLZ",
+        "isVeg": false
+    },
+    {
+        "id": 94,
+        "name": "STRIPS RICE BOWLZ",
+        "price": 209,
+        "description": "Rice bowlz with crispy chicken strips and spicy gravy.",
+        "image": "/assets/popcorn-rice-bowl.png",
+        "category": "RICE BOWLZ",
+        "isVeg": false
+    },
+    {
+        "id": 95,
+        "name": "SMOKY RED RICE BOWLZ",
+        "price": 219,
+        "description": "Rice bowlz with smoky red chicken and signature gravy.",
+        "image": "/assets/kfc-rice-bowl.jpg",
+        "category": "RICE BOWLZ",
+        "isVeg": false
+    },
+    {
+        "id": 96,
+        "name": "VEG RICE BOWLZ",
+        "price": 169,
+        "description": "Flavorful rice with veg patty and spicy gravy.",
+        "image": "/assets/kfc-rice-bowl.jpg",
+        "category": "RICE BOWLZ",
+        "isVeg": true
+    },
+    {
+        "id": 97,
+        "name": "CHICKEN RICE BOWLZ COMBO",
+        "price": 249,
+        "description": "Chicken rice bowlz served with a side and drink.",
+        "image": "/assets/chicken-rice-bowl.png",
+        "category": "RICE BOWLZ",
+        "isVeg": false
+    },
+    {
+        "id": 63,
+        "name": "AMERICAN NASHVILLE ROLL MEAL",
+        "price": 198.1,
+        "description": "American Nashville Roll Meal",
+        "image": "/assets/D-PR00003201.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 64,
+        "name": "THAI SPICY CHICKEN ROLL MEAL",
+        "price": 198.1,
+        "description": "Thai Spicy Chicken Roll Meal",
+        "image": "/assets/D-PR00003202.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 86,
+        "name": "CHICKEN STRIPS - 3PC",
+        "price": 189,
+        "description": "3 crispy chicken strips, golden fried to perfection.",
+        "image": "/assets/D-K1252.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 87,
+        "name": "CHICKEN POPCORN",
+        "price": 149,
+        "description": "Bite-sized pieces of breaded chicken, fried to golden perfection.",
+        "image": "/assets/D-PR00003201.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 88,
+        "name": "REGULAR FRIES",
+        "price": 89,
+        "description": "Crispy golden fries, seasoned to perfection.",
+        "image": "/assets/D-K1080.jpg",
+        "category": "SNACKS",
+        "isVeg": true
+    },
+    {
+        "id": 89,
+        "name": "HOT WINGS - 4PC",
+        "price": 139,
+        "description": "4 pieces of signature hot wings, seasoned and fried to crisp perfection.",
+        "image": "/assets/D-K1251.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 90,
+        "name": "VEG PATTY",
+        "price": 49,
+        "description": "A crispy, tasty veg patty - a perfect snack!",
+        "image": "/assets/veg-fallback.jpg",
+        "category": "SNACKS",
+        "isVeg": true
+    },
+    {
+        "id": 91,
+        "name": "CHICKEN WINGS BUCKET - 10PC",
+        "price": 399,
+        "description": "10 pieces of crispy chicken wings, perfect for sharing!",
+        "image": "/assets/D-K1251.jpg",
+        "category": "SNACKS",
+        "isVeg": false
+    },
+    {
+        "id": 66,
+        "name": "Ultimate Savings Bucket",
+        "price": 699,
+        "description": "The ultimate party bucket with everything you need for a crowd.",
+        "image": "/assets/ultimate-savings-bucket.png",
+        "category": "VARIETY BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 67,
+        "name": "Bucket for Two",
+        "price": 499,
+        "description": "Perfectly portioned bucket for a satisfying meal for two.",
+        "image": "/assets/kfc-white-bucket.jpg",
+        "category": "VARIETY BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 68,
+        "name": "Mingles Bucket",
+        "price": 499,
+        "description": "A mix of your favorite KFC pieces, perfect for sharing.",
+        "image": "/assets/ultimate-savings-bucket.png",
+        "category": "VARIETY BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 69,
+        "name": "Friendship Bucket",
+        "price": 699,
+        "description": "The perfect bucket to share with your best friends.",
+        "image": "/assets/kfc-epic-bucket.jpg",
+        "category": "VARIETY BUCKETS",
+        "isVeg": false
+    },
+    {
+        "id": 111,
+        "name": "AMERICAN NASHVILLE ZINGER BURGER",
+        "price": 209,
+        "description": "Signature zinger fillet, lettuce, and Nashville spicy sauce in a soft bun.",
+        "image": "/assets/D-PR00002406.jpg",
+        "category": "BURGERS",
+        "isVeg": false,
+        "isNew": true
+    },
+    {
+        "id": 112,
+        "name": "KRUSH LIME",
+        "price": 89,
+        "description": "Refreshing lime crusher to beat the heat.",
+        "image": "/assets/krush-lime.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 113,
+        "name": "CHOCO MUD PIE",
+        "price": 129,
+        "description": "Rich and decadent chocolate mud pie.",
+        "image": "/assets/choco-mud-pie.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 114,
+        "name": "COOLBERG CRANBERRY",
+        "price": 99,
+        "description": "Non-alcoholic cranberry flavored malt beverage.",
+        "image": "/assets/coolberg-cranberry.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 115,
+        "name": "COOLBERG PEACH",
+        "price": 99,
+        "description": "Non-alcoholic peach flavored malt beverage.",
+        "image": "/assets/coolberg-peach.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    },
+    {
+        "id": 116,
+        "name": "CHOCO MUD CAKE",
+        "price": 119,
+        "description": "Moist and rich chocolate mud cake.",
+        "image": "/assets/mud-cake.webp",
+        "category": "DESSERTS & BEVERAGES",
+        "isVeg": true
+    }
+]

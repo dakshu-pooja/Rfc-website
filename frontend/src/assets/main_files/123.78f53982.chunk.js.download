@@ -1,0 +1,1 @@
+(this["webpackJsonpreusable-comps"]=this["webpackJsonpreusable-comps"]||[]).push([[123],{1017:function(s,t,e){"use strict";e.r(t);var a=e(210),r=e(2);t.default=s=>Object(r.jsx)(a.a,{...s,testId:"rewards-container-test",importPath:"REWARDS_PAGE_CONTAINER"})}}]);

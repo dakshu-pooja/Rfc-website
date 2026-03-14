@@ -1,0 +1,1 @@
+(this["webpackJsonpreusable-comps"]=this["webpackJsonpreusable-comps"]||[]).push([[122],{1002:function(s,e,t){"use strict";t.r(e);var a=t(210),p=t(2);e.default=s=>Object(p.jsx)(a.a,{importPath:"PRIVACY_POLICY_PAGE_CONTAINER",...s})}}]);
