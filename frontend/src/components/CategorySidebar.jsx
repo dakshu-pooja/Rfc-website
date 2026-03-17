@@ -1,5 +1,4 @@
-import React from 'react';
-import kfcLogo from '../assets/kfc-logo.svg';
+import KfcLogo from './KfcLogo';
 
 const CategorySidebar = ({ categories, activeCategory, onCategoryClick }) => {
     return (
@@ -7,7 +6,7 @@ const CategorySidebar = ({ categories, activeCategory, onCategoryClick }) => {
             <div className="flex flex-col items-start px-2">
                 {/* Official KFC Logo */}
                 <div className="mb-8 pl-4">
-                    <img src={kfcLogo} alt="KFC Logo" className="h-[22px] w-auto" />
+                    <KfcLogo className="scale-75 origin-left" />
                 </div>
 
                 <div className="mb-10 pl-4">

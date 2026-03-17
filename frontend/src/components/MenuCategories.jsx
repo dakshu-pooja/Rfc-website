@@ -1,16 +1,16 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import goldEditionImg from '../assets/KFC-Gold-Burger-White-Category-23MAY_4.webp';
-import boxMealsImg from '../assets/BOX MEALS.webp';
-import varietyBucketsImg from '../assets/Variety Bucket.webp';
-import vegImg from '../assets/Veg.webp';
-import chickenBucketsImg from '../assets/KFC-White-Chicken-Bucket.webp';
-import burgersImg from '../assets/KFC-Burger.webp';
+import goldEditionImg from '../assets/gold-burger.webp';
+import boxMealsImg from '../assets/box-meals.webp';
+import varietyBucketsImg from '../assets/variety-bucket.webp';
+import vegImg from '../assets/veg.webp';
+import chickenBucketsImg from '../assets/chicken-bucket.webp';
+import burgersImg from '../assets/kfc-burger.webp';
 import snacksImg from '../assets/snacks.webp';
 import riceBowlzImg from '../assets/rice-bowlz.webp';
-import beveragesImg from '../assets/Beverages&desserts.webp';
-import epicBucketImg from '../assets/EPIC.webp';
+import beveragesImg from '../assets/beverages-desserts.webp';
+import epicBucketImg from '../assets/epic.webp';
 
 const categories = [
     {
