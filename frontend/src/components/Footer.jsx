@@ -1,7 +1,7 @@
-import React from 'react';
-import kfcLogoIcon from '../assets/KFC _ Order KFC Chicken Online and Find Restaurants_files/kfcLogo.492728c6.svg';
-import googlePlayBadge from '../assets/KFC _ Order KFC Chicken Online and Find Restaurants_files/google_play.svg';
-import appStoreBadge from '../assets/KFC _ Order KFC Chicken Online and Find Restaurants_files/apple.svg';
+import KfcLogo from './KfcLogo';
+
+const googlePlayBadge = "https://images.ctfassets.net/4cd45et68cgf/2eSreYj9IkG0mSe6m6mS4A/7847c207a67f08e4f16b71f90f666f7a/en_badge_web_generic.png";
+const appStoreBadge = "https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg";
 
 const Footer = () => {
     return (
@@ -10,13 +10,9 @@ const Footer = () => {
                 {/* Main Content Grid */}
                 <div className="flex flex-col md:flex-row justify-between items-start gap-12 lg:gap-8 mb-20 lg:ml-8 lg:mr-8 xl:ml-0 xl:mr-0">
 
-                    {/* Logo */}
+                    {/* Logo Section */}
                     <div className="flex-shrink-0 mr-8 mt-2">
-                        <img
-                            src={kfcLogoIcon}
-                            alt="KFC Logo"
-                            className="w-[105px]"
-                        />
+                        <KfcLogo className="scale-75 origin-left brightness-0 invert" />
                     </div>
 
                     {/* Columns 1-4 Container */}
